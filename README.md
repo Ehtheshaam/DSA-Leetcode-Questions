@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1122-relative-sort-array](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1122-relative-sort-array) |
 ## Counting Sort
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
@@ -142,5 +144,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
