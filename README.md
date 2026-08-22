@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0136-single-number) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
