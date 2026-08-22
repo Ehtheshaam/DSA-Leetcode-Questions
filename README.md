@@ -7,17 +7,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0164-maximum-gap](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0164-maximum-gap) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0704-binary-search) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -34,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0164-maximum-gap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
