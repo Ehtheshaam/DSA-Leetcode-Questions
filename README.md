@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0643-maximum-average-subarray-i) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0704-binary-search) |
 ## Matrix
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0724-find-pivot-index) |
 ## Greedy
@@ -145,5 +148,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
