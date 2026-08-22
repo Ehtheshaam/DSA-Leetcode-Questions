@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0042-trapping-rain-water) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0303-range-sum-query-immutable) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
