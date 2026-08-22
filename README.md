@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0704-binary-search](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0724-find-pivot-index) |
 | [1122-relative-sort-array](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1122-relative-sort-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0724-find-pivot-index) |
 ## Greedy
 |  |
 | ------- |
