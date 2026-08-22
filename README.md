@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0303-range-sum-query-immutable) |
+| [0643-maximum-average-subarray-i](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0724-find-pivot-index) |
 | [1122-relative-sort-array](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1122-relative-sort-array) |
@@ -138,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
