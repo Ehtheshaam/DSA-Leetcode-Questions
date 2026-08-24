@@ -13,5 +13,5 @@ class Solution(object):
                 result.append(nums[right])
                 right -= 1
 
-        nums[:] = result        
-        
+        for i in range(n):
+            nums[i] = result[i]
