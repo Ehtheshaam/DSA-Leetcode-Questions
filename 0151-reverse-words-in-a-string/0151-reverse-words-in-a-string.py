@@ -15,5 +15,10 @@ class Solution(object):
 
         words.reverse()
 
-        return " ".join(words)                    
+        return " ".join(words)  
+
+
+        #  words= s.split()
+        # words.reverse()
+        # return " ".join(words)                  
         
