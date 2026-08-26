@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0704-binary-search) |
+| [1044-longest-duplicate-substring](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1044-longest-duplicate-substring) |
 ## Matrix
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0459-repeated-substring-pattern) |
+| [1044-longest-duplicate-substring](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1044-longest-duplicate-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0904-fruit-into-baskets) |
+| [1044-longest-duplicate-substring](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1044-longest-duplicate-substring) |
 ## Quickselect
 |  |
 | ------- |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0459-repeated-substring-pattern) |
+| [1044-longest-duplicate-substring](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1044-longest-duplicate-substring) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
@@ -227,8 +231,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1044-longest-duplicate-substring](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1044-longest-duplicate-substring) |
 ## Manacher
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
+## Rolling Hash
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1044-longest-duplicate-substring) |
+## Suffix Array
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1044-longest-duplicate-substring) |
+## Hash Function
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1044-longest-duplicate-substring) |
+## Suffix Automaton
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1044-longest-duplicate-substring) |
+## Suffix Tree
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1044-longest-duplicate-substring) |
 <!---LeetCode Topics End-->
