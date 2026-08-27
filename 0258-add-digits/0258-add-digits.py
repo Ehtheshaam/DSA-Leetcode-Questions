@@ -1,14 +1,8 @@
 class Solution(object):
     def addDigits(self, num):
-        s = str(num)
+        if num<10:
+            return num
+        while num>9:
+            num = num%10 + num/10
 
-        while len(s) > 1:
-            add = 0
-
-            for ch in s:
-                add = add + int(ch)
-
-            s = str(add)
-
-        return int(s)
-        
+        return num        
