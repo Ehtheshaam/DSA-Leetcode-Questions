@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0806-number-of-lines-to-write-string) |
 | [0904-fruit-into-baskets](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0904-fruit-into-baskets) |
 | [1122-relative-sort-array](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1122-relative-sort-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0268-missing-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0779-k-th-symbol-in-grammar) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Math
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0779-k-th-symbol-in-grammar) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0093-restore-ip-addresses) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Linked List
 |  |
 | ------- |
@@ -329,4 +333,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1042-flower-planting-with-no-adjacent) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
