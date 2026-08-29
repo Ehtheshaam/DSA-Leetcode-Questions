@@ -310,4 +310,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0141-linked-list-cycle) |
+## Depth-First Search
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1042-flower-planting-with-no-adjacent) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1042-flower-planting-with-no-adjacent) |
+## Graph Theory
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1042-flower-planting-with-no-adjacent) |
+## Graph Coloring
+|  |
+| ------- |
+| [1042-flower-planting-with-no-adjacent](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1042-flower-planting-with-no-adjacent) |
 <!---LeetCode Topics End-->
