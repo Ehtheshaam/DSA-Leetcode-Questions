@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0138-copy-list-with-random-pointer](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0143-reorder-list) |
 | [0328-odd-even-linked-list](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0328-odd-even-linked-list) |
