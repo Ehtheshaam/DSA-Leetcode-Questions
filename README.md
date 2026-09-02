@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Breadth-First Search
 |  |
@@ -358,4 +359,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
