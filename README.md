@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0136-single-number) |
+| [0140-word-break-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0138-copy-list-with-random-pointer) |
+| [0140-word-break-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0093-restore-ip-addresses](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0125-valid-palindrome) |
+| [0140-word-break-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0053-maximum-subarray) |
+| [0140-word-break-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0509-fibonacci-number) |
 ## Stack
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0014-longest-common-prefix) |
+| [0140-word-break-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0140-word-break-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -306,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
@@ -320,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0093-restore-ip-addresses) |
+| [0140-word-break-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Linked List
 |  |
