@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0140-word-break-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0268-missing-number) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0202-happy-number) |
 ## Depth-First Search
 |  |
 | ------- |
