@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0050-powx-n) |
 | [0168-excel-sheet-column-title](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0231-power-of-two) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
