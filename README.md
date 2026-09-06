@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0078-subsets) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0063-unique-paths-ii) |
 | [0140-word-break-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0322-coin-change) |
