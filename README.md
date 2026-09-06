@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0324-wiggle-sort-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0518-coin-change-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0518-coin-change-ii) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0140-word-break-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0518-coin-change-ii) |
 ## Stack
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0322-coin-change) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Graph Theory
 |  |
@@ -383,9 +386,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
