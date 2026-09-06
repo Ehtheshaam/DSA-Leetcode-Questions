@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0324-wiggle-sort-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0324-wiggle-sort-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0518-coin-change-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0704-binary-search) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0518-coin-change-ii) |
 ## Stack
 |  |
 | ------- |
@@ -378,4 +380,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0543-diameter-of-binary-tree) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
