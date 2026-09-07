@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0143-reorder-list) |
@@ -441,4 +443,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0980-unique-paths-iii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
