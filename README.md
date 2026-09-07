@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0093-restore-ip-addresses](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0168-excel-sheet-column-title) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0063-unique-paths-ii) |
+| [0131-palindrome-partitioning](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0213-house-robber-ii) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0093-restore-ip-addresses) |
+| [0131-palindrome-partitioning](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0980-unique-paths-iii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0980-unique-paths-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1863-sum-of-all-subset-xor-totals) |
