@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0686-repeated-string-match) |
 | [0806-number-of-lines-to-write-string](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0806-number-of-lines-to-write-string) |
 | [1044-longest-duplicate-substring](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1044-longest-duplicate-substring) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1392-longest-happy-prefix](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1392-longest-happy-prefix) |
 ## Dynamic Programming
 |  |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0503-next-greater-element-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0739-daily-temperatures) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
