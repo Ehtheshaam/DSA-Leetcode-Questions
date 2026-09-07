@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0140-word-break-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0172-factorial-trailing-zeroes) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
 | ------- |
