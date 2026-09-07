@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0724-find-pivot-index) |
 | [0806-number-of-lines-to-write-string](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0806-number-of-lines-to-write-string) |
 | [0904-fruit-into-baskets](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0904-fruit-into-baskets) |
+| [0980-unique-paths-iii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0980-unique-paths-iii) |
 | [1122-relative-sort-array](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1122-relative-sort-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0980-unique-paths-iii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0980-unique-paths-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0268-missing-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0779-k-th-symbol-in-grammar) |
+| [0980-unique-paths-iii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0980-unique-paths-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Math
 |  |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0093-restore-ip-addresses) |
 | [0140-word-break-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0140-word-break-ii) |
+| [0980-unique-paths-iii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0980-unique-paths-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Linked List
 |  |
@@ -426,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0051-n-queens) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
