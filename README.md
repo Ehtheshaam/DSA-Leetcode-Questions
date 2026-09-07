@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0140-word-break-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0141-linked-list-cycle) |
+| [0187-repeated-dna-sequences](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0268-missing-number) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0171-excel-sheet-column-number) |
+| [0187-repeated-dna-sequences](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0643-maximum-average-subarray-i) |
@@ -313,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0187-repeated-dna-sequences) |
 | [0459-repeated-substring-pattern](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0686-repeated-string-match) |
 | [1044-longest-duplicate-substring](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1044-longest-duplicate-substring) |
@@ -328,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0187-repeated-dna-sequences) |
 | [0686-repeated-string-match](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0686-repeated-string-match) |
 | [1044-longest-duplicate-substring](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1044-longest-duplicate-substring) |
 ## Manacher
@@ -337,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0187-repeated-dna-sequences) |
 | [1044-longest-duplicate-substring](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1392-longest-happy-prefix) |
 ## Suffix Array
@@ -346,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0187-repeated-dna-sequences) |
 | [1044-longest-duplicate-substring](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1392-longest-happy-prefix) |
 ## Suffix Automaton
