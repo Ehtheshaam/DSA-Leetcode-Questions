@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0806-number-of-lines-to-write-string) |
 | [0904-fruit-into-baskets](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0904-fruit-into-baskets) |
 | [1122-relative-sort-array](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1122-relative-sort-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/0704-binary-search) |
 | [1044-longest-duplicate-substring](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1044-longest-duplicate-substring) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ehtheshaam/DSA-Leetcode-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Matrix
 |  |
 | ------- |
